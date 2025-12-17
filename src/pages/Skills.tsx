@@ -21,7 +21,13 @@ const skillCategories = [
 			"Tailwind CSS",
 			"Prisma",
 			"Zod",
-			"WordPress",
+			"flutter",
+			"Dart",
+			'Expres',
+			"Laravel",
+			"swagger",
+			"docker",
+			
 		],
 	},
 	{
@@ -36,7 +42,6 @@ const skillCategories = [
 			"PowerAMC",
 			"Docker",
 			"Canva",
-			"Adobe Illustrator",
 			"JSON Server",
 			"Mermaid",
 			"StartUml",

@@ -1,4 +1,4 @@
-import { Home, User, Briefcase, Code, GraduationCap, Mail } from "lucide-react";
+import { Home, User, Briefcase, Code, FolderOpen, GraduationCap, Mail } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import { ThemeToggle } from "./ThemeToggle";
 
@@ -7,6 +7,7 @@ const menuItems = [
 	{ title: "À propos", url: "/about", icon: User },
 	{ title: "Expériences", url: "/experience", icon: Briefcase },
 	{ title: "Compétences", url: "/skills", icon: Code },
+	{ title: "Projets", url: "/projects", icon: FolderOpen },
 	{ title: "Formation", url: "/education", icon: GraduationCap },
 	{ title: "Contact", url: "/contact", icon: Mail },
 ];

@@ -6,7 +6,7 @@ const education = [
 	{
 		period: "2025",
 		school: "Orange Digital Center",
-		degree: "Formation en cours",
+		degree: "Formation ",
 		field: "Développement Web/Mobile",
 	},
 	{

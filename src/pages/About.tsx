@@ -17,7 +17,7 @@ const About = () => {
             <p className="text-lg leading-relaxed">
               Développeuse Fullstack passionnée, je conçois des applications web complètes, 
               de la structure back-end au design front-end. Maîtrise des langages web 
-              (HTML, CSS, JavaScript, PHP) et des outils comme WordPress, Figma et Git.
+              (JavaScript, PHP, Typescript ,HTML, CSS,C ), les frameworks(react, laravel, flutter, node.js( express, typescript)) et des outils comme  docker , swagger, Figma et Git.
             </p>
             
             <p className="text-lg leading-relaxed">
