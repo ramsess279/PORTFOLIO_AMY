@@ -7,13 +7,13 @@ const projects = [
     name: "OMPAY_API",
     url: "https://github.com/amycollendiaye/OMPAY",
     description: "Application de paiement mobile utilisant flutter pour le front-end, php laravel pour le back-end et postgres pour la base de données.",
-    technologies: ["flutter", "php/laravel.js", "postgres","docker"],
+    technologies: ["flutter", "php/laravel.js", "postgres","docker","Swagger"],
   },
   {
     name: "projetmaxit",
     url: "https://github.com/amycollendiaye/projetmaxit.git",
     description: "Projet de maximisation, utilisant php et prostgres.",
-    technologies: ["php",  "postgres", 'docker'],
+    technologies: ["php",  "postgres", 'docker',"Swagger"],
   },
   {
     name: "watshapp_Projet",
@@ -31,13 +31,25 @@ const projects = [
     name: "gestionapprenants",
     url: "https://github.com/amycollendiaye/gestionapprenants.git",
     description: "Système de gestion des apprenants utilisant php fonctionnel et jsonserver.",
-    technologies: ["php fonctionnelle", "jsonserver"],
+    technologies: ["php fonctionnel", "jsonserver"],
   },
   {
     name: "projethtmlcss",
     url: "https://github.com/amycollendiaye/projethtlmcss.git",
     description: "un projet   pour apprendre les  balises html et  les proprietes css les  transitions et aminations.",
     technologies: ["html","css"],
+  },
+  {
+    name: "GESTRVFRONTED",
+    url: "https://github.com/amycollendiaye/GESTRVFRONTED.git",
+    description: "Application de gestion frontend construite avec Vite, TypeScript, React et Tailwind CSS utilisant les composants shadcn-ui.",
+    technologies: ["Vite", "TypeScript", "React", "shadcn-ui", "Tailwind CSS"],
+  },
+  {
+    name: "GEST-RV-BACKEND-CHUN",
+    url: "https://github.com/amycollendiaye/GEST-RV-BACKEND-CHUN.git",
+    description: "Backend pour la gestion des rendez-vous médicaux au centre hospitalier universitaire de  fann développé avec PHP Laravel et postgres. Gestion des patients, médecins , consultations  , des dossiers medicaux et attribution  automatique de rv par le systeme",
+    technologies: ["PHP", "Laravel", "Neon/postges", "Docker","chiffrement des donnes","Swagger"],
   },
 ];
 
